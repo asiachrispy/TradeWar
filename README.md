@@ -15,3 +15,9 @@
 [《经贸风险情报》（2019年第111期） - 广东省制造业协会GMA官方网站](http://www.cngma.com/zzynh/1765.html)
 
 [公平贸易 - 广东省制造业协会GMA官方网站](http://www.cngma.com/zzynh/)
+
+## 视频
+[剑桥大学-现代世界的诞生](https://www.iqiyi.com/a_19rrjwwrx9.html)
+
+## CHANGELOG
+20190619 CHRISPY NEWADD
