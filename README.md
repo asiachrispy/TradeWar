@@ -18,6 +18,9 @@
 
 ## 视频
 [剑桥大学-现代世界的诞生](https://www.iqiyi.com/a_19rrjwwrx9.html)
+[北京航空航天大学公开课：世界经济五百年\_全6集\_网易公开课](http://open.163.com/special/cuvocw/shijiejingji500.html)
+[浅谈大航海时代-科技-高清正版视频在线观看–爱奇艺](http://www.iqiyi.com/w_19s6kyu6tl.html)
 
 ## CHANGELOG
+20190727 CHRISPY add video course
 20190619 CHRISPY NEWADD
